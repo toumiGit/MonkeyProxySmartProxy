@@ -25,6 +25,9 @@
         <module name="SoapRevisited" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SoapRevisited" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
